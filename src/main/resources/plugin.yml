@@ -1,0 +1,13 @@
+name: PlayerdataRestorer
+version: ${project.version}
+main: com.meekapoo.playerdatarestorer.PlayerdataRestorer
+api-version: 1.16
+authors: [SirPooch]
+website: ravinesquaad.us.to
+description: penis
+commands:
+  pd:
+    usage: /pd restore [player] quick
+    aliases:
+      - pd
+      - playerdata
